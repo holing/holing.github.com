@@ -5,4 +5,4 @@
 https://holing.github.io/
 
 #judianer:
-https://judianer.cc
+http://hling.judianer.cc/
